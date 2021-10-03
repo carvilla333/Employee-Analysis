@@ -9,3 +9,4 @@ Our next step was to create tables into a database and export these as csv files
 ![Screen Shot 10-02-21 at 10 51 PM](https://user-images.githubusercontent.com/79889633/135738909-76ef9ad5-a73d-4f4b-8a4d-2c9f60b32590.PNG)
 
 once we created tables into our database, and we populated these tables. We queried the data in order to get answer for details such as name of employees, sex, age, and salary
+![Screen Shot 10-02-21 at 10 53 PM](https://user-images.githubusercontent.com/79889633/135739009-663716df-dda2-41e1-b569-b3cbbf0760dc.PNG)
