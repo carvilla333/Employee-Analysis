@@ -1,4 +1,4 @@
-# SQL-Employee-Analysis
+# SQL-Employee-Analysis---SQL
 
 In this project we generated new data for a company that lists various details about the employees. We sketched out an ERD for tables, designed the tables to hold data in CSVs, imported the CSVs into a SQL database, and used those in order to formulate our findings with the data.
 
